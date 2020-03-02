@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Projeto.csproj",
+  "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Projeto.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14344,42 +14344,42 @@
   "RootNamespace": "Projeto",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Shared\\Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\cleyton.adona\\Documents\\Projeto\\Views\\Home\\Agendamento.cshtml",
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Cleyton Adona\\Documents\\Site_Manutecao_Motos\\Views\\Home\\Agendamento.cshtml",
       "TargetPath": "Views\\Home\\Agendamento.cshtml",
       "FileKind": "mvc"
     }

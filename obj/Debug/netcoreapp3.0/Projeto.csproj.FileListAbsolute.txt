@@ -34,3 +34,39 @@ C:\Users\cleyton.adona\Documents\Projeto\obj\Debug\netcoreapp3.0\Projeto.dll
 C:\Users\cleyton.adona\Documents\Projeto\obj\Debug\netcoreapp3.0\Projeto.pdb
 C:\Users\cleyton.adona\Documents\Projeto\obj\Debug\netcoreapp3.0\Projeto.csproj.CopyComplete
 C:\Users\cleyton.adona\Documents\Projeto\obj\Debug\netcoreapp3.0\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.exe
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.deps.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.runtimeconfig.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.runtimeconfig.dev.json
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.dll
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.pdb
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.Views.dll
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\Projeto.Views.pdb
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.csprojAssemblyReference.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\staticwebassets\Projeto.StaticWebAssets.xml
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.RazorAssemblyInfo.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.RazorAssemblyInfo.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.AssemblyInfo.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.TagHelpers.input.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.TagHelpers.output.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.RazorCoreGenerate.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Home\Agendamento.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.RazorTargetAssemblyInfo.cache
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.RazorTargetAssemblyInfo.cs
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.Views.pdb
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.dll
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.pdb
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.csproj.CopyComplete
