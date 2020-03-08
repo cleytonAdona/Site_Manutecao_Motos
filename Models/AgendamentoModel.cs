@@ -1,5 +1,5 @@
 
-namespace Site_Manutecao_Motos.Models
+namespace Projeto.Models
 {
     public class AgendamentoModel
     {

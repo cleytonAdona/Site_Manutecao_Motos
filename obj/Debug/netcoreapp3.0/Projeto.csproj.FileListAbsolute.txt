@@ -85,3 +85,4 @@ C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\ru
 C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cleyton Adona\Documents\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Razor\Views\Home\Salvar.cshtml.g.cs
