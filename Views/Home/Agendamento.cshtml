@@ -1,45 +1,48 @@
+@using Site_Manutecao_Motos.Models;
+@model AgendamentoModel
 @{
-    ViewData["Title"] = "Solicite seu Agendamento";
+    ViewData["Title"] = "Solicite seu Agendamento";   
 }
 <h1>@ViewData["Title"]</h1>
 <br>
 
-<form>
-  <div class="form-row">
+
+<form asp-controller="Home" asp-action="Salvar" method = "POST">
+  <div class="form-row" >
             <div class="form-group col-md-6">
                 <label for="inputEmail4">Nome</label>
-                <input type="email" class="form-control" id="inputNome" placeholder="Nome">
+                <input type="text" class="form-control" id="Nome" placeholder="Nome">
             </div>
             <div class="form-group col-md-6">
                 <label for="inputEmail4">Sobre Nome</label>
-                <input type="email" class="form-control" id="inputSobreNome" placeholder="Sobre Nome">
+                <input type="text" class="form-control" id="SobreNome" placeholder="Sobre Nome">
             </div>
             <div class="form-group col-md-6">
                 <label for="inputEmail4">Email</label>
-                <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                <input type="email" class="form-control" id="Email" placeholder="Email">
             </div>
             <div class="form-group col-md-6">
                 <label for="inputEmail4">CPF</label>
-                <input type="number" class="form-control" id="inputCPF" placeholder="CPF">
+                <input type="text" class="form-control" id="CPF" placeholder="CPF">
             </div>
   </div>
             <div class="form-group">
                 <label for="inputAddress">Endereço</label>
-                <input type="text" class="form-control" id="inputEndereco" placeholder="Endereço">
+                <input type="text" class="form-control" id="Endereco" placeholder="Endereço">
             </div>
 
             <div class="form-group">
                 <label for="inputAddress2">Complemento</label>
-                <input type="text" class="form-control" id="inputComplemento" placeholder="Complemento do endereço">
+                <input type="text" class="form-control" id="Complemento" placeholder="Complemento do endereço">
             </div>
   <div class="form-row">
             <div class="form-group col-md-6">
                 <label for="inputCity">Cidade</label>
-                <input type="text" class="form-control" id="inputCidade" placeholder="Cidade">
+                <input type="text" class="form-control" id="Cidade" placeholder="Cidade">
             </div>
             <div class="form-group col-md-4">
                 <label for="inputState">UF</label>
-                <select id="inputUF" class="form-control">
+                <select id="UF" class="form-control">
                     <option selected>AC</option>
                     <option>AL</option>
                     <option>AP</option>
@@ -70,7 +73,7 @@
             </div>
             <div class="form-group col-md-2">
                 <label for="inputZip">Celular</label>
-                <input type="text" class="form-control" id="inputContato" placeholder="Contato">
+                <input type="text" class="form-control" id="Contato" placeholder="Contato">
             </div>
   </div>
   <div class="form-group">

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Projeto.Models;
 using System.Data;
+using Site_Manutecao_Motos.Models;
 
 namespace Projeto.Controllers
 {
@@ -28,7 +29,19 @@ namespace Projeto.Controllers
         {
             return View();
         }
-
+        [HttpPost]
+        public IActionResult Salvar(AgendamentoModel agendamento){
+            Console.WriteLine("Entrou no Salvar");
+            return Content(agendamento.Nome + " " + 
+                           agendamento.SobreNome + " " + 
+                           agendamento.CPF + " " + 
+                           agendamento.Email + " " + 
+                           agendamento.Endereco + " " + 
+                           agendamento.Cidade + " " + 
+                           agendamento.Complemento + " " + 
+                           agendamento.UF + " " + 
+                           agendamento.Contato);
+        }
         public IActionResult Privacy()
         {
             return View();
