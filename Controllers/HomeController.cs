@@ -31,16 +31,7 @@ namespace Projeto.Controllers
         }
         [HttpPost]
         public IActionResult Salvar(AgendamentoModel agendamento){
-            Console.WriteLine("Entrou no Salvar");
-            return Content(agendamento.Nome + " " + 
-                           agendamento.SobreNome + " " + 
-                           agendamento.CPF + " " + 
-                           agendamento.Email + " " + 
-                           agendamento.Endereco + " " + 
-                           agendamento.Cidade + " " + 
-                           agendamento.Complemento + " " + 
-                           agendamento.UF + " " + 
-                           agendamento.Contato);
+            return View(agendamento);
         }
         public IActionResult Privacy()
         {
