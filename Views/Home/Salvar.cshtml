@@ -1,12 +1,24 @@
 
-@model Projeto.Models.AgendamentoModel;
+@model Projeto.Models.AgendamentoViewModel;
+@{
+    ViewData["Title"] = "Agendamento Enviado";
+}
+<h1>@ViewData["Title"]</h1>
+<br>
 
-<p>@Model.Nome</p>
-<p>@Model.SobreNome</p>  
-<p>@Model.CPF</p>
-<p>@Model.Email</p>
-<p>@Model.Endereco</p>
-<p>@Model.Cidade</p>
-<p>@Model.Complemento</p>
-<p>@Model.UF</p>
-<p>@Model.Contato</p>
+<div class="shadow-sm p-3 mb-5 bg-white rounded">
+    <div class="container">
+        <div class="row row-cols-2">
+            <div class="col"><span style="font-size:20px">Nome: @Model.NomeFormatado</span></div>
+            <div class="col"><span style="font-size:20px">CPF: @Model.MascaraCpf</span></div>
+            <div class="col"><span style="font-size:20px">E-mail: @Model.agendamento.Email</span></div>
+            <div class="col"><span style="font-size:20px">Endere&ccedil;o: @Model.agendamento.Endereco</span></div>
+            <div class="col"><span style="font-size:20px">Cidade: @Model.agendamento.Cidade</span></div>
+            <div class="col"><span style="font-size:20px">Complemento: @Model.agendamento.Complemento</span></div>
+            <div class="col"><span style="font-size:20px">UF: @Model.agendamento.UF</span></div>
+            <div class="col"><span style="font-size:20px">Contato: @Model.agendamento.Contato</span></div>
+            <div class="col"><span style="font-size:20px">Servico: @Model.agendamento.Servico</span></div>
+            <div class="col"><span style="font-size:20px">Data Sugerida: @Model.FormatarData</span></div>
+        </div>
+    </div>
+</div>

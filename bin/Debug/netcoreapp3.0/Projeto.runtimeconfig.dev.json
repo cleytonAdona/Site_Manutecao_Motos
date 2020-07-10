@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Cleyton Adona\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Cleyton Adona\\.nuget\\packages"
+      "C:\\Users\\cleyton.adona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cleyton.adona\\.nuget\\packages"
     ]
   }
 }

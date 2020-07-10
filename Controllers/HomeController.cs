@@ -31,7 +31,9 @@ namespace Projeto.Controllers
         }
         [HttpPost]
         public IActionResult Salvar(AgendamentoModel agendamento){
-            return View(agendamento);
+            var agendamentoVM = new AgendamentoViewModel();
+            agendamentoVM.agendamento = agendamento;
+            return View(agendamentoVM);
         }
         public IActionResult Privacy()
         {
