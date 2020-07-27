@@ -24,11 +24,11 @@ namespace Projeto.Controllers
         {
             return View();
         }
-
         public IActionResult Agendamento()
         {
             return View();
         }
+   
         [HttpPost]
         public IActionResult Salvar(AgendamentoModel agendamento){
             var agendamentoVM = new AgendamentoViewModel();
