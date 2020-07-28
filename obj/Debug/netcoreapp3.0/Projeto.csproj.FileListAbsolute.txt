@@ -139,3 +139,4 @@ C:\Users\cleyton.adona\source\repos\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0
 C:\Users\cleyton.adona\source\repos\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\staticwebassets\Projeto.StaticWebAssets.Manifest.cache
 C:\Users\cleyton.adona\source\repos\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\staticwebassets\Projeto.StaticWebAssets.xml
 C:\Users\cleyton.adona\source\repos\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.genruntimeconfig.cache
+C:\Users\cleyton.adona\source\repos\Site_Manutecao_Motos\obj\Debug\netcoreapp3.0\Projeto.csprojAssemblyReference.cache
